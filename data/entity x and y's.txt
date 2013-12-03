@@ -1,0 +1,45 @@
+Frame default:
+400, 260
+
+Player spawn: 
+335, 224
+
+Cyclops:
+X:170 -285
+y:-285 -795
+
+Spiders:
+x:-875 -1165
+y:260 -25
+
+Wolfs:
+x:210 -255
+y:-980 -1275
+
+skeleton:
+x:400 -1165
+y:260 -1306
+
+necromancer:
+x:-720 -1165
+y:-985 -1305
+
+panda:
+x:
+y:
+
+monkey:
+x:
+y:
+
+scorpian:
+x:
+y:
+
+bull:
+x:
+y:
+
+bloodlord:
+x:0 383
+y:0 372
